@@ -38,19 +38,19 @@ Choose an option:
 
 Add an expense (option 1):
 Date (YYYY-MM-DD): 2025-08-20
-Amount: 15.99
-Category: Snacks
-Description: Coffee shop
+Amount: 1500
+Category: Shopping
+Description: Mina Bazar
 
 Output: Expense added!
 View expenses (option 2):
 Date       | Amount  | Category   | Description
 -----------------------------------------------
-2025-08-20 | 15.99   | Snacks     | Coffee shop
+2025-07-09 | 1500    | Shopping   | Mina Bazar
 
 Category summary (option 3):
 Category-wise Expense Summary:
-Snacks: 15.99
+Shopping : 1500
 
 Notes:
 Expenses are saved in expenses.txt in the same folder as the script.
